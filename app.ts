@@ -29,3 +29,6 @@ function inc(speed: number, inc: number = 1) : number {
 
 console.log(`inc (5,1) = ${inc(5,1)}`)
 console.log(`inc (5) = ${inc(5)}`)
+
+
+//=========CLASS ANS INTERFACES==========//
